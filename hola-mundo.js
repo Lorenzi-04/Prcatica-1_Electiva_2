@@ -1,1 +1,1 @@
-console.log("Hola Mundo en JS"); 
+console.log("Hola Mundo en JavaScript");  
